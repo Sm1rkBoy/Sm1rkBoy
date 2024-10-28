@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Sm1rkBoy" src="./assets/readme.png" /></p>
+<p align="center"><img width="50%" alt="Hello, I'm Sm1rkBoy" src="./assets/readme.png" /></p>
 
 <br/>
 
