@@ -2,14 +2,14 @@
 
 <br/>
 
-<h3 align="center">I'm a student from China who aspires to become a full-stack development engineer.</h3>
+<h3 align="center">A full-stack development engineer.</h3>
 
 
 ## About me:
 
 - 🌱 I’m currently learning **Vue** and **Java.**
 
-- 📝 I regularly write articles on my [blog](https://sm1rkboy.xyz).
+- 📝 I regularly write articles on my [blog](https://blog.bitrate.top).
 
 - 💬 Ask me about **[here](https://github.com/Sm1rkBoy/Sm1rkBoy/issues)**
 
